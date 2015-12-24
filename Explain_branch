@@ -1,0 +1,1 @@
+A branch enables ring-fenced coding to take place, e.g. to experiment or test.  Upon deciding to use code in the new branch, this can be merged back into the master, updating the original code accordingly.

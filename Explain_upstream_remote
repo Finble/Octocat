@@ -1,0 +1,1 @@
+A remote is a repository (directory) held by github.  By pushing changes from your local repo up to the remote repo, you are pushing changes ‘upstream’.  This is in contrast to cloning (copying) or pulling changes from the remote repo to your local repo, which is referred to as “downstream”.
